@@ -82,7 +82,7 @@ margin-right: 70px;
 position: relative;
 bottom:37px;
 left:1000px;
-  
+font-size:25px;
 
  
 }
@@ -91,14 +91,14 @@ left:1000px;
   position: relative;
   bottom:35px;
   left:1000px;
- 
+ font-size:25px;
 
 }
 .error-message3{
 position: relative;
  bottom:35px;
  left:1000px;
-
+font-size:25px;
 }
 #message{
   
