@@ -61,7 +61,7 @@ button{
 }
 .content{
 background-color: #616161;
-height:130px;
+height:140px;
 width:1800px;
 top:50px;
 position: relative;
@@ -80,7 +80,7 @@ margin-right: 70px;
 }
 .error-message1{
 position: relative;
-bottom:37px;
+bottom:35px;
 left:950px;
 font-size:25px;
 
@@ -89,7 +89,7 @@ font-size:25px;
 .error-message2{
   
   position: relative;
-  bottom:35px;
+  bottom:32px;
   left:950px;
  font-size:25px;
 
