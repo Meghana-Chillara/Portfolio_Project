@@ -148,13 +148,13 @@ position: relative;
 }
 .image3{
     position: relative;
-    bottom:500px;
+    bottom:650px;
     border-radius: 50%;
     float: left;
     left:5px;
 
 
-    
+
 }
 
 h3{
@@ -171,7 +171,7 @@ h3{
     font-family:Garamond;
     position: relative;
     left:20px;
-    bottom:500px;
+    bottom:650px;
     color:#81b29a;
     line-height:60px;
 
