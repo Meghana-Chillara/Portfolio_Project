@@ -189,4 +189,52 @@ line-height: 50px;
 text-align: center;
 
  }
+@media only screen and (max-width:400px){
+
+  h1{
+    position: relative;
+    margin-top:400px;
+    font-size: 70px;
+    
+    }
+.text2{
+  position:relative;
+  top:10px;
+height:300px;
+}
+.content h2{
+  position: relative;
+  right:590px;
+  font-size:47px;
+  top:10px;
+}
+
+img{
+  position:absolute;
+  left:100px;
+  height:300px;
+  width:300px;
+}
+.btn{
+  display:flex;
+  display:inline;
+  position: relative;
+  left:10px;
+  top:100px;
+}
+.box-one{
+  left:50px;
+}
+.box-two{
+  left:120px;
+
+}
+.box-three{
+  left:200px;
+
+}
+.box-four{
+  left:250px;
+
+}
  
