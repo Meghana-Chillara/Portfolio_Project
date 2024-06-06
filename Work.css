@@ -1,0 +1,58 @@
+body{
+   
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.text{
+  
+   color:white;
+    font-size: 150px;
+    position: relative;
+    top:250px;
+    margin-left:100px;
+    font-family:Impact;
+ -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
+
+}
+
+.text span {
+  font-family: "Lucida Console", "Courier New", monospace;
+position: relative;
+display: inline-block;
+text-transform: uppercase;
+animation: waviy 1s infinite;
+animation-delay: calc(.1s * var(--i));
+
+}
+@keyframes waviy {
+0%,40%,100% {
+  transform: translateY(0)
+}
+20% {
+  transform: translateY(-20px)
+}
+}
+.card{
+    position: relative;
+    left:600px;
+    bottom:170px;
+    width:500px;
+    
+    
+}
+
+
