@@ -144,11 +144,11 @@ position: relative;
     white-space: nowrap;
     position:relative;
     bottom:200px;
-   line-height:55px;
+   line-height:60px;
 }
 .image3{
     position: relative;
-    bottom:700px;
+    bottom:500px;
     border-radius: 50%;
     float: left;
     left:5px;
@@ -164,14 +164,14 @@ h3{
         position: relative;
         text-align: center;
         color: aliceblue;
-        bottom:750px;
+        bottom:550px;
 }
 .text{
     font-size: 25px;
     font-family:Garamond;
     position: relative;
     left:20px;
-    bottom:700px;
+    bottom:500px;
     color:#81b29a;
     line-height:60px;
 
