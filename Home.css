@@ -1,0 +1,192 @@
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+  
+body{
+ 
+ background-color:black;
+
+
+ height:20vh;
+
+}
+
+   
+.box-one{
+   position: relative;
+     left:850px ;
+     top:20px;
+     
+   
+}
+.box-two{
+
+      position:relative;
+       left:900px ;
+       top:20px;
+      
+    
+    
+ }
+
+ .box-three{
+   position:relative;
+      left:950px ;
+      top:20px;
+      
+
+    
+ }
+ .box-four{
+      position: relative;
+      left:1000px;
+      top:20px;
+      
+    
+    
+ }
+ .content{
+  position: relative;
+  
+  
+}
+@keyframes movingTopToBottom {
+  0% {
+    top: -15px;
+  }
+  95% {
+    top: 150px;
+  }
+  100% {
+    top: 165px;
+  }
+}
+
+ 
+.content h2{
+  color: #fff;
+  font-size:90px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+   margin-left: 800px;
+    top:90px;
+    white-space:nowrap;
+    font-family:Georgia;
+    
+}
+
+
+
+
+
+
+.content h2:nth-child(1) {
+  color: transparent;
+  -webkit-text-stroke: 2px #D76F30;
+}
+
+.content h2:nth-child(2) {
+  color:#D76F30;
+  
+  color:#D76F30;
+
+  animation: animate 4s ease-in-out infinite;
+}
+
+
+
+@keyframes animate {
+  0%,
+  100% {
+    clip-path: polygon(
+      0% 45%,
+      16% 44%,
+      33% 50%,
+      54% 60%,
+      70% 61%,
+      84% 59%,
+      100% 52%,
+      100% 100%,
+      0% 100%
+    );
+  }
+
+  50% {
+    clip-path: polygon(
+      0% 60%,
+      15% 65%,
+      34% 66%,
+      51% 62%,
+      67% 50%,
+      84% 45%,
+      100% 46%,
+      100% 100%,
+      0% 100%
+    );
+  }
+}
+
+
+
+  
+   
+
+ 
+ h1{
+ color:whitesmoke;
+   font-size:60px;
+   position:absolute;
+   margin-left:150px;
+  margin-top:250px ;
+font-family:Gabriola;
+  animation: 2s anim-lineUp ease-out infinite;
+ }
+ @keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0%);
+    }
+  }
+
+  /* ...and then apply it: */
+  h1 {
+    animation: slide-in 1000ms;
+  }
+
+
+
+   
+ 
+    img{
+    position: relative;
+    left:700px;
+  top:190px;
+border-radius:50%;
+ 
+   
+ }
+ 
+.text2{
+ 
+  background-color:#D76F30;
+  position: relative;
+  width:100%;
+   top:280px;
+  height:250px;
+  font-family:'Times New Roman', Times, serif ;
+ }
+ p{
+
+text-align: center;
+ color: white; 
+ position: relative;
+font-size: 20px;
+top:70px;
+font-family:Optima;
+line-height: 50px;
+text-align: center;
+
+ }
+ 
