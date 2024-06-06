@@ -42,7 +42,7 @@ h1{
      font-size: 80px;
     position: relative;
     color: white;
-   left:480px;
+   left:550px;
     top:5px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
@@ -51,7 +51,7 @@ button{
     height: 40px;
     width:100px;
     text-align: center;
-    left:700px;
+    left:800px;
     position: relative;
     bottom:8px;
     border: 1px solid white;
@@ -62,7 +62,7 @@ button{
 .content{
 background-color: #616161;
 height:125px;
-width:1700px;
+width:1800px;
 top:50px;
 position: relative;
 margin-right: 70px;
@@ -81,7 +81,7 @@ margin-right: 70px;
 .error-message1{
 position: relative;
 bottom:37px;
-left:900px;
+left:1000px;
   
 
  
@@ -90,14 +90,14 @@ left:900px;
   
   position: relative;
   bottom:35px;
-  left:900px;
+  left:1000px;
  
 
 }
 .error-message3{
 position: relative;
  bottom:35px;
- left:900px;
+ left:1000px;
 
 }
 #message{
