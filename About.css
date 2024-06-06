@@ -107,7 +107,7 @@ h1{
 
 p{
  
-  font-size:25px;
+  font-size:30px;
   font-family:Garamond;
 position: relative;
   color:#81b29a;
@@ -140,7 +140,7 @@ position: relative;
 }
 .two li{
     color: #81b29a;
-    font-size: 25px;
+    font-size: 30px;
     right:200px;
     white-space:wrap;
     position:relative;
@@ -168,7 +168,7 @@ h3{
         bottom:730px;
 }
 .text{
-    font-size: 25px;
+    font-size:30px;
     font-family:Garamond;
     position: relative;
     left:20px;
