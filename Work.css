@@ -54,5 +54,22 @@ animation-delay: calc(.1s * var(--i));
     
     
 }
+@media only screen and (max-width:480px)
+{
+  .card{
+    left:10px;
+    top:50px;
+ position: relative;
+ width: 400px;
+  
+
+   
+  }
+  
+  .text{
+    font-size: 120px;
+    top:20px;
+  }
+}
 
 
