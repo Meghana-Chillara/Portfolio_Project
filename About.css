@@ -197,15 +197,16 @@ h1,h2,h3{
       opacity: 1;
       transform: translateY(0%);
     }
-  }
-@media only screen and (max-width:400px)
+  
+  @media only screen and (max-width:480px)
   {
     html{
-      max-height:5px;
+      max-height: 10vh;
+     
     }
   
    .image1{
-      left:50px;
+      left:40px;
       height: 350px;
       width: 350px;
    }
@@ -218,22 +219,23 @@ p{
   font-size: 25px;
 }
 .bullets{
-  position: absolute;
-  top:1400px;
+  position:relative;
+  top:1000px;
+  right:200px;
 }
 h2{
   position: relative;
-  bottom:1000px;
+  bottom:1200px;
   left:0px;
 }
 .image2{
 position: relative;
-bottom:950px;
-left:60px;
+bottom:1200px;
+left:50px;
 }
 .lists li{
   position: relative;
-  bottom:900px;
+  bottom:1180px;
   left:0px;
   white-space: wrap;
   float: inline-start;
@@ -242,24 +244,28 @@ left:60px;
 }
 h3{
   position: relative;
-  bottom:2100px;
+  bottom:2450px;
 }
 .image3{
   position: relative;
-bottom:2200px;
-left: 50px;
-width:400px;
-height: 400px;
+bottom:2500px;
+left: 40px;
+width:350px;
+height: 350px;
 }
 .three p{
   white-space: wrap;
 position: relative;
 left: 0px;
-bottom:2100px;
-line-height:50px;
-
+bottom:2480px;
+line-height:60px;
 }
+  }
   
-}
+
+
+
+
+
 
   
