@@ -1,0 +1,134 @@
+body{
+    
+    
+background-color: #252934;
+height:100px;
+
+
+
+transform: scale(0.94);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+}
+@keyframes scale {
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+   
+
+ 
+    
+
+input{
+    
+    position: relative;
+    height:40px;
+    width:380px;
+    bottom:5px;
+    left:410px;
+    display: block;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+    
+
+h1{
+     font-size: 60px;
+    position: relative;
+    color: white;
+   left:480px;
+    top:5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+button{
+    height: 40px;
+    width:100px;
+    text-align: center;
+    left:650px;
+    position: relative;
+    bottom:8px;
+    border: 1px solid white;
+    background-color:#252934;
+    color: white;
+    
+}
+.content{
+background-color: #616161;
+height:125px;
+width:1600px;
+top:50px;
+position: relative;
+margin-right: 70px;
+
+}
+.svg1{
+    position: relative;
+    left:500px;
+    bottom:24px;
+}
+.svg2{
+    position: relative;
+    left:530px;
+    bottom:30px;
+}
+.error-message1{
+position: relative;
+bottom:37px;
+left:800px;
+  
+
+ 
+}
+.error-message2{
+  
+  position: relative;
+  bottom:35px;
+  left:800px;
+ 
+
+}
+.error-message3{
+position: relative;
+ bottom:35px;
+ left:800px;
+
+}
+#message{
+  
+position: relative;
+  height:120px;
+  width:380px;
+  bottom:5px;
+  left:410px;
+  display: block;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
