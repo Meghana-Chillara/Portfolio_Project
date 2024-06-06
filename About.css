@@ -148,7 +148,7 @@ position: relative;
 }
 .image3{
     position: relative;
-    bottom:650px;
+    bottom:600px;
     border-radius: 50%;
     float: left;
     left:5px;
@@ -164,14 +164,14 @@ h3{
         position: relative;
         text-align: center;
         color: aliceblue;
-        bottom:550px;
+        bottom:650px;
 }
 .text{
     font-size: 25px;
     font-family:Garamond;
     position: relative;
     left:20px;
-    bottom:650px;
+    bottom:600px;
     color:#81b29a;
     line-height:60px;
 
