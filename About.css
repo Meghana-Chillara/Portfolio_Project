@@ -111,7 +111,7 @@ p{
   font-family:Garamond;
 position: relative;
   color:#81b29a;
-  line-height: 60px;
+  line-height: 50px;
   left:30px ;
   bottom:40px;
 }
@@ -143,11 +143,11 @@ position: relative;
     right:200px;
  position:relative;
     bottom:200px;
-   line-height:60px;
+   line-height:50px;
 }
 .image3{
     position: relative;
-    bottom:780px;
+    bottom:800px;
     border-radius: 50%;
     float: left;
     left:5px;
@@ -172,7 +172,7 @@ h3{
     left:20px;
     bottom:800px;
     color:#81b29a;
-    line-height:60px;
+    line-height:50px;
     
 
 }
