@@ -198,5 +198,68 @@ h1,h2,h3{
       transform: translateY(0%);
     }
   }
+@media only screen and (max-width:600px)
+  {
+    html{
+      max-height:5px;
+    }
+  
+   .image1{
+      left:50px;
+      height: 350px;
+      width: 350px;
+   }
+p{
+  position: relative;
+  margin-top:10px;
+  line-height:70px;
+  left:0px;
+  float: inline-start;
+  font-size: 25px;
+}
+.bullets{
+  position: absolute;
+  top:1400px;
+}
+h2{
+  position: relative;
+  bottom:1000px;
+  left:0px;
+}
+.image2{
+position: relative;
+bottom:950px;
+left:60px;
+}
+.lists li{
+  position: relative;
+  bottom:900px;
+  left:0px;
+  white-space: wrap;
+  float: inline-start;
+  line-height:50px;
+
+}
+h3{
+  position: relative;
+  bottom:2100px;
+}
+.image3{
+  position: relative;
+bottom:2100px;
+left: 50px;
+width:400px;
+height: 400px;
+}
+.three p{
+  white-space: wrap;
+position: relative;
+left: 0px;
+bottom:2000px;
+line-height:50px;
+
+}
+  
+}
 
   
