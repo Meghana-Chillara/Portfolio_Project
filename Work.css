@@ -54,7 +54,7 @@ animation-delay: calc(.1s * var(--i));
     
     
 }
-@media only screen and (max-width:480px)
+@media only screen and (max-width:400px)
 {
   .card{
     left:10px;
