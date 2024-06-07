@@ -223,24 +223,24 @@ p{
 }
 .bullets{
   position:relative;
-  top:1700px;
+  top:1600px;
   right:200px;
 }
 h2{
   position: relative;
-  bottom:1000px;
+  bottom:1150px;
   left:0px;
 }
 .image2{
 position: relative;
-bottom:800px;
+bottom:1000px;
 left:30px;
 width:300px;
 height: 300px;
 }
 .lists li{
   position: relative;
-  bottom:700px;
+  bottom:900px;
   left:1px;
  white-space:wrap;
   float: inline-start;
