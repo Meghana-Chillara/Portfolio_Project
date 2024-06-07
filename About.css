@@ -120,7 +120,7 @@ position: relative;
 
   h2{
   font-family: "Bitter",serif;
-  font-size:80px;
+  font-size:90px;
   color: aliceblue;
  text-align: center;
  position:relative;
@@ -167,7 +167,7 @@ h3{
         position: relative;
         text-align: center;
         color: aliceblue;
-        bottom:700px;
+        bottom:680px;
 }
 .text{
     font-size: 25px;
