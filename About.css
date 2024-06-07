@@ -120,7 +120,7 @@ position: relative;
 
   h2{
   font-family: "Bitter",serif;
-  font-size:90px;
+  font-size:95px;
   color: aliceblue;
  text-align: center;
  position:relative;
@@ -202,7 +202,7 @@ h1,h2,h3{
   }
 
 
-  @media only screen and (min-width:400px){
+  @media only screen and (max-width:400px){
   {
     
  html{
