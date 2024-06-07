@@ -228,19 +228,19 @@ p{
 }
 h2{
   position: relative;
-  bottom:1500px;
+  bottom:1200px;
   left:0px;
 }
 .image2{
 position: relative;
-bottom:1400px;
+bottom:1100px;
 left:30px;
 width:300px;
 height: 300px;
 }
 .lists li{
   position: relative;
-  bottom:1300px;
+  bottom:1000px;
   left:1px;
  white-space:wrap;
   float: inline-start;
