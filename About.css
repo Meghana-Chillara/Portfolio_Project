@@ -1,4 +1,4 @@
-@media only screen and (min-width:1200px){
+
 
 html{
   max-height:10vh;
@@ -200,9 +200,9 @@ h1,h2,h3{
       transform: translateY(0%);
     }
   }
-}
 
-  @media only screen and (max-width:600px) and (min-width:400px)
+
+  @media only screen and (min-width:600px){
   {
     
  html{
