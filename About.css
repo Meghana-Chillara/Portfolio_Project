@@ -215,7 +215,7 @@ p{
   position: relative;
   margin-top:10px;
   line-height:70px;
-  left:5px;
+  left:1px;
   float: inline-start;
   font-size: 20px;
   font-family:Garamond;
@@ -241,8 +241,8 @@ height: 300px;
 .lists li{
   position: relative;
   bottom:1330px;
-  left:5px;
-  white-space: wrap;
+  left:1px;
+ 
   float: inline-start;
   line-height:60px;
   font-size:20px;
@@ -263,9 +263,9 @@ width:300px;
 height: 300px;
 }
 .three p{
-  white-space: wrap;
+ 
 position: relative;
-left:5px;
+left:1px;
 bottom:2700px;
 line-height:60px;
 font-family:Garamond;
