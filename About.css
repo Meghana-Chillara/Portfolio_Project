@@ -141,7 +141,7 @@ position: relative;
     color: #81b29a;
     font-size: 25px;
     right:200px;
-    white-space: nowrap;
+    white-space:wrap;
     position:relative;
     bottom:200px;
    line-height:55px;
