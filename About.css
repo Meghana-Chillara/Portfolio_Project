@@ -215,14 +215,14 @@ p{
   position: relative;
   margin-top:10px;
   line-height:70px;
-  left:0px;
+  left:5px;
   float: inline-start;
   font-size: 20px;
   font-family:Garamond;
 }
 .bullets{
   position:relative;
-  top:1100px;
+  top:1400px;
   right:200px;
 }
 h2{
@@ -240,7 +240,7 @@ height: 300px;
 .lists li{
   position: relative;
   bottom:1330px;
-  left:0px;
+  left:5px;
   white-space: wrap;
   float: inline-start;
   line-height:60px;
@@ -251,7 +251,7 @@ height: 300px;
 h3{
   position: relative;
   bottom:2660px;
-  font-size:70px;
+  font-size:60px;
 }
 .image3{
   position: relative;
@@ -263,7 +263,7 @@ height: 300px;
 .three p{
   white-space: wrap;
 position: relative;
-left: 0px;
+left:5px;
 bottom:2700px;
 line-height:60px;
 font-family:Garamond;
