@@ -200,91 +200,95 @@ h1,h2,h3{
       transform: translateY(0%);
     }
   }
-
-
-  @media only screen and (max-width:600px){
-  {
+@media only screen and (max-width:480px){
     
- html{
-      max-height: 10vh;
+      
+   html{
+        max-height: 10vh;
+     
+    
+       
+      }
+    
+     .image1{
+        left:40px;
+        height: 300px;
+        width: 300px;
+     }
+  p{
+    position: relative;
+    margin-top:10px;
+    line-height:70px;
+    left:1px;
+    float: inline-start;
+    font-size: 20px;
+    font-family:Garamond;
+   
+  }
+  .bullets{
+    white-space: nowrap;
+    position:relative;
+    top:900px;
+    right:200px;
+  }
+  h2{
+    position: relative;
+    bottom:1000px;
+    left:5px;
+    
+    
+  }
+  .image2{
+  position: relative;
+  bottom:1000px;
+  left:50px;
+  width:300px;
+  height: 300px;
+  }
+  .lists li{
+    position: relative;
+    bottom:970px;
+    left:0px;
+   white-space:wrap;
+    float: inline-start;
+    line-height:60px;
+    font-size:20px;
+    font-family:Garamond;
+  
    
   
-     
+  }
+  h3{
+    position: relative;
+    bottom:2000px;
+    font-size:60px;
+  }
+  .image3{
+    position: relative;
+  bottom:2000px;
+  left: 40px;
+  width:320px;
+  height: 320px;
+  }
+  .three p{
+   
+  position: relative;
+  left:1px;
+  bottom:1950px;
+  line-height:60px;
+  font-family:Garamond;
+    font-size:20px;
+  }
     }
   
-   .image1{
-      left:40px;
-      height: 300px;
-      width: 300px;
-   }
-p{
-  position: relative;
-  margin-top:10px;
-  line-height:70px;
-  left:1px;
-  float: inline-start;
-  font-size: 20px;
-  font-family:Garamond;
- 
-}
-.bullets{
-  position:relative;
-  top:2000px;
-  right:200px;
-}
-h2{
-  position: relative;
-  bottom:1100px;
   
-}
-.image2{
-position: relative;
-bottom:1000px;
-left:30px;
-width:300px;
-height: 300px;
-}
-.lists li{
-  position: relative;
-  bottom:900px;
-  left:0px;
- white-space:wrap;
-  float: inline-start;
-  line-height:60px;
-  font-size:20px;
-  font-family:Garamond;
+    
+    
+  
+  
+  
+  
+    
+  
 
  
-
-}
-h3{
-  position: relative;
-  bottom:2000px;
-  font-size:60px;
-}
-.image3{
-  position: relative;
-bottom:1950px;
-left: 30px;
-width:300px;
-height: 300px;
-}
-.three p{
- 
-position: relative;
-left:1px;
-bottom:1900px;
-line-height:60px;
-font-family:Garamond;
-  font-size:20px;
-}
-  }
-
-
-  
-  
-
-
-
-
-  
