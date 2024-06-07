@@ -63,7 +63,7 @@ html{
         background: #fff;
       }
   
-      @media screen and (max-width: 400px) {
+      @media screen and (min-width: 400px) {
         body {
           font-size: 12px;
         }
