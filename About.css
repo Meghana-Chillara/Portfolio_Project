@@ -198,7 +198,7 @@ h1,h2,h3{
       transform: translateY(0%);
     }
   
-  @media only screen and (max-width:480px)
+  @media only screen and (max-width:400px)
   {
     html{
       max-height: 10vh;
@@ -216,6 +216,7 @@ p{
   line-height:70px;
   left:0px;
   float: inline-start;
+  font-family:Garamond;
   font-size: 25px;
 }
 .bullets{
@@ -240,6 +241,7 @@ left:50px;
   white-space: wrap;
   float: inline-start;
   line-height:50px;
+  font-family:Garamond;
 
 }
 h3{
@@ -259,6 +261,7 @@ position: relative;
 left: 0px;
 bottom:2480px;
 line-height:60px;
+ font-family:Garamond;
 }
   }
   
