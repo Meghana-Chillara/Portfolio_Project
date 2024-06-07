@@ -201,7 +201,6 @@ h1,h2,h3{
     }
   }
 
- 
   @media only screen and (max-width:480px){
     
       
@@ -213,7 +212,7 @@ h1,h2,h3{
       }
     
      .image1{
-        left:40px;
+        left:20px;
         height: 300px;
         width: 300px;
      }
@@ -230,26 +229,26 @@ h1,h2,h3{
   .bullets{
     white-space: nowrap;
     position:relative;
-    top:1000px;
+    top:1100px;
     right:200px;
   }
   h2{
     position: relative;
-    bottom:1100px;
+    bottom:1150px;
     left:5px;
     
     
   }
   .image2{
   position: relative;
-  bottom:1100px;
-  left:50px;
+  bottom:1170px;
+  left:20px;
   width:300px;
   height: 300px;
   }
   .lists li{
     position: relative;
-    bottom:1050px;
+    bottom:1150px;
     left:0px;
    white-space:wrap;
     float: inline-start;
@@ -262,13 +261,13 @@ h1,h2,h3{
   }
   h3{
     position: relative;
-    bottom:2200px;
+    bottom:2500px;
     font-size:60px;
   }
   .image3{
     position: relative;
-  bottom:2180px;
-  left: 40px;
+  bottom:2500px;
+  left: 20px;
   width:320px;
   height: 320px;
   }
@@ -276,13 +275,21 @@ h1,h2,h3{
    
   position: relative;
   left:1px;
-  bottom:2130px;
+  bottom:2450px;
   line-height:60px;
   font-family:Garamond;
     font-size:20px;
   }
     }
   
+  
+    
+    
+  
+  
+  
+  
+    
   
     
     
