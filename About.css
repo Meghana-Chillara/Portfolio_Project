@@ -63,7 +63,7 @@ html{
         background: #fff;
       }
   
-      @media screen and (min-width: 400px) {
+      @media screen and (max-width: 400px) {
         body {
           font-size: 12px;
         }
@@ -144,17 +144,17 @@ position: relative;
     white-space: nowrap;
     position:relative;
     bottom:200px;
-   line-height:60px;
+   line-height:55px;
 }
 .image3{
     position: relative;
-    bottom:725px;
+    bottom:750px;
     border-radius: 50%;
     float: left;
     left:5px;
 
 
-
+    
 }
 
 h3{
@@ -171,10 +171,9 @@ h3{
     font-family:Garamond;
     position: relative;
     left:20px;
-    bottom:680px;
+    bottom:750px;
     color:#81b29a;
     line-height:60px;
-  whitespace:nowrap;
 
 }
 h1,h2,h3{
@@ -197,8 +196,9 @@ h1,h2,h3{
       opacity: 1;
       transform: translateY(0%);
     }
-  
-  @media only screen and (max-width:400px)
+  }
+
+  @media only screen and (max-width:600px)
   {
     html{
       max-height: 10vh;
@@ -216,7 +216,6 @@ p{
   line-height:70px;
   left:0px;
   float: inline-start;
-  font-family:Garamond;
   font-size: 25px;
 }
 .bullets{
@@ -226,7 +225,7 @@ p{
 }
 h2{
   position: relative;
-  bottom:1200px;
+  bottom:1150px;
   left:0px;
 }
 .image2{
@@ -240,17 +239,16 @@ left:50px;
   left:0px;
   white-space: wrap;
   float: inline-start;
-  line-height:50px;
-  font-family:Garamond;
+  line-height:60px;
 
 }
 h3{
   position: relative;
-  bottom:2450px;
+  bottom:2350px;
 }
 .image3{
   position: relative;
-bottom:2500px;
+bottom:2380px;
 left: 40px;
 width:350px;
 height: 350px;
@@ -259,14 +257,12 @@ height: 350px;
   white-space: wrap;
 position: relative;
 left: 0px;
-bottom:2480px;
+bottom:2350px;
 line-height:60px;
- font-family:Garamond;
 }
   }
   
-
-
+  
 
 
 
