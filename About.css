@@ -1,4 +1,4 @@
- @media only screen and (min-width:800px)
+ @media only screen and (min-width:992px)
 
 html{
   max-height:10vh;
@@ -65,7 +65,7 @@ html{
         background: #fff;
       }
   
-      @media screen and (max-width: 400px) {
+      @media screen and (max-width: 600px) {
         body {
           font-size: 12px;
         }
