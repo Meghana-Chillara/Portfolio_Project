@@ -217,11 +217,12 @@ p{
   line-height:70px;
   left:0px;
   float: inline-start;
-  font-size: 25px;
+  font-size: 20px;
+  font-family:Garamond;
 }
 .bullets{
   position:relative;
-  top:1050px;
+  top:1100px;
   right:200px;
 }
 h2{
@@ -243,6 +244,8 @@ height: 300px;
   white-space: wrap;
   float: inline-start;
   line-height:60px;
+  font-size:20px;
+  font-family:Garamond;
 
 }
 h3{
@@ -263,6 +266,8 @@ position: relative;
 left: 0px;
 bottom:2700px;
 line-height:60px;
+font-family:Garamond;
+  font-size:20px;
 }
   }
 
