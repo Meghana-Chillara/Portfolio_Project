@@ -199,7 +199,7 @@ h1,h2,h3{
     }
   }
 
-  @media only screen and (max-width:400px)
+  @media only screen and (min-width:400px)
   {
     
  html{
@@ -224,24 +224,24 @@ p{
 }
 .bullets{
   position:relative;
-  top:1600px;
+  top:1400px;
   right:200px;
 }
 h2{
   position: relative;
-  bottom:1400px;
+  bottom:1100px;
   left:0px;
 }
 .image2{
 position: relative;
-bottom:1300px;
+bottom:1000px;
 left:30px;
 width:300px;
 height: 300px;
 }
 .lists li{
   position: relative;
-  bottom:1200px;
+  bottom:900px;
   left:0px;
  white-space:wrap;
   float: inline-start;
@@ -254,7 +254,7 @@ height: 300px;
 }
 h3{
   position: relative;
-  bottom:2500px;
+  bottom:2450px;
   font-size:60px;
 }
 .image3{
@@ -268,7 +268,7 @@ height: 300px;
  
 position: relative;
 left:1px;
-bottom:2300px;
+bottom:2350px;
 line-height:60px;
 font-family:Garamond;
   font-size:20px;
