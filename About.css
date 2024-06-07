@@ -65,7 +65,7 @@ html{
         background: #fff;
       }
   
-      @media screen and (min-width: 400px) {
+      @media screen and (max-width: 700px) {
         body {
           font-size: 12px;
         }
@@ -229,7 +229,7 @@ p{
 }
 .bullets{
   position:relative;
-  top:1700px;
+  top:2000px;
   right:200px;
 }
 h2{
