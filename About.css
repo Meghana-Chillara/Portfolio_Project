@@ -124,7 +124,7 @@ position: relative;
   color: aliceblue;
  text-align: center;
  position:relative;
- bottom:180px;
+ bottom:150px;
  right:160px;
  
  
@@ -134,7 +134,7 @@ position: relative;
 }
 .image2{
     position: relative;
-    bottom:200px;
+    bottom:100px;
     border-radius: 50%;
     float: left;
     right:280px;
@@ -145,7 +145,7 @@ position: relative;
     right:200px;
     white-space:wrap;
     position:relative;
-    bottom:200px;
+    bottom:100px;
    line-height:55px;
    
 }
