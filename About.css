@@ -254,12 +254,12 @@ height: 300px;
 }
 h3{
   position: relative;
-  bottom:2660px;
+  bottom:2300px;
   font-size:60px;
 }
 .image3{
   position: relative;
-bottom:2700px;
+bottom:2250px;
 left: 30px;
 width:300px;
 height: 300px;
@@ -268,7 +268,7 @@ height: 300px;
  
 position: relative;
 left:1px;
-bottom:2700px;
+bottom:2200px;
 line-height:60px;
 font-family:Garamond;
   font-size:20px;
