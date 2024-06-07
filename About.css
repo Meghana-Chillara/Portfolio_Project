@@ -242,7 +242,7 @@ height: 300px;
   position: relative;
   bottom:1330px;
   left:1px;
- 
+ white-space:wrap;
   float: inline-start;
   line-height:60px;
   font-size:20px;
