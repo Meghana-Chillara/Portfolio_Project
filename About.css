@@ -88,12 +88,13 @@ p{
   float: inline-start;
   left:5px;
 font-family:Garamond;
+font-size:20px;
 }
 .image1{
-  left:50px;
+  left:40px;
   width:280px;
   height:280px;
-  text-align:justify;
+ 
 }
 }
 
