@@ -72,11 +72,11 @@ h1{
        
         
     }
-    
+  
 @media only screen and (max-width:480px){
 .dot{
   position: relative;
-left:-100px;
+left:-130px;
 top:1000px;
 white-space:nowrap;
 
@@ -87,16 +87,18 @@ white-space:nowrap;
 p{
   float: inline-start;
   left:5px;
-font-family:Garamond;
-font-size:20px;
 }
 .image1{
   left:40px;
   width:280px;
   height:280px;
- 
+  text-align:justify;
 }
 }
+
+
+   
+
 
 
    
