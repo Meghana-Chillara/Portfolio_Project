@@ -24,7 +24,7 @@ h1{
 
 p{
  
-  font-size:25px;
+  font-size:22px;
   font-family:Garamond;
 position: relative;
   color:#81b29a;
@@ -73,6 +73,7 @@ h1{
         
     }
   
+    
 @media only screen and (max-width:480px){
 .dot{
   position: relative;
@@ -87,6 +88,7 @@ white-space:nowrap;
 p{
   float: inline-start;
   left:5px;
+  font-size: 20px;
 }
 .image1{
   left:40px;
@@ -96,6 +98,8 @@ p{
 }
 }
 
+
+   
 
    
 
