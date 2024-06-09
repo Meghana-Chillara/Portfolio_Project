@@ -25,12 +25,12 @@ h2{
       bottom:25px;
       border-radius: 50%;
       float: left;
-      left:20px;
+      left:30px;
   }
   .lists{
       color: #81b29a;
       font-size: 25px;
-      left:70px;
+      left:90px;
       white-space: wrap;
       position:relative;
       bottom:40px;
@@ -69,7 +69,7 @@ h2{
     display: inline-block;
     position: relative;
     bottom:20px;
-    left:550px;
+    left:700px;
    
     
 }
