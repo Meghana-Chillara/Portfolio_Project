@@ -78,12 +78,9 @@ h2{
     float: inline-start;
     left:-20px;
    font-size:22px;
+   white-space: wrap;
    
   }
-    h2
-    {
-        font-size:60px;
-    }
   .image2{
     position: relative;
     left:60px;
@@ -92,7 +89,10 @@ h2{
 
 .dot{
 position: relative;
-top:1000px;
+top:950px;
 left:-100px
+}
+h2{
+  font-size:60px;
 }
 }
