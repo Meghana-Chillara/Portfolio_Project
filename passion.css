@@ -1,15 +1,15 @@
 
 body{
-    background-color:#1F2833; 
+  background-color:#1F2833; 
 }
 h3{
 
-    font-family: "Bitter",serif;
-    font-size:60px;
-    position: relative;
-    text-align: center;
-    color: aliceblue;
-    bottom:30px;
+  font-family: "Bitter",serif;
+  font-size:60px;
+  position: relative;
+  text-align: center;
+  color: aliceblue;
+  bottom:30px;
 }
 .text{
 font-size: 22px;
@@ -22,14 +22,14 @@ line-height:60px;
 text-align:balance;
 }
 .image3{
-    position: relative;
-    bottom:30px;
-    border-radius: 50%;
-    float: left;
-    left:5px;
+  position: relative;
+  bottom:30px;
+  border-radius: 50%;
+  float: left;
+  left:5px;
 
 
-    
+  
 }
 h3{
 
@@ -37,49 +37,50 @@ animation: 2s anim-lineUp ease-out infinite;
 }
 @keyframes anim-lineUp {
 0% {
-  opacity: 0;
-  transform: translateY(80%);
+opacity: 0;
+transform: translateY(80%);
 }
 20% {
-  opacity: 0;
+opacity: 0;
 }
 50% {
-  opacity: 1;
-  transform: translateY(0%);
+opacity: 1;
+transform: translateY(0%);
 }
 100% {
-  opacity: 1;
-  transform: translateY(0%);
+opacity: 1;
+transform: translateY(0%);
 }
 }
 .dot{
-   
-    -webkit-border-radius:8px;
-    -moz-border-radius:8px;
-    border-radius:20px;
  
-    background: rgba( 255, 255, 255, 0.5 );
-    width:16px;
-    height:16px;
-    display: inline-block;
-    position: relative;
-    left:550px;
-    
+  -webkit-border-radius:8px;
+  -moz-border-radius:8px;
+  border-radius:20px;
+
+  background: rgba( 255, 255, 255, 0.5 );
+  width:16px;
+  height:16px;
+  display: inline-block;
+  position: relative;
+  left:550px;
+  
 }
 @media only screen and (max-width:480px){
 .text{
-  float: inline-start;
-  left:3px;
+float: inline-start;
+left:3px;
+bottom: 33px;
 font-size:20px;
 }
 .image3{
-  left:45px;
+left:40px;
+bottom:45px ;
 }
 .dot{
-  position: relative;
-  top:1000px;
-  left:-130px;
-  
+position: relative;
+top:950px;
+left:-130px;
+
 }
- 
 }
