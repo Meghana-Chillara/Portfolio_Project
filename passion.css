@@ -69,13 +69,14 @@ animation: 2s anim-lineUp ease-out infinite;
 .text{
   float: inline-start;
   left:3px;
+    font-size:22px;
 }
 .image3{
   left:45px;
 }
 .dot{
   position: relative;
- top:1000px;
+  top:1000px;
   left:-100px;
   
 }
