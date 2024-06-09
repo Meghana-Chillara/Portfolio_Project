@@ -71,14 +71,13 @@ h1{
         top:50px;
        
         
-    }
-  
-    
+}
+   
 @media only screen and (max-width:480px){
 .dot{
   position: relative;
 left:-130px;
-top:850px;
+top:800px;
 white-space:nowrap;
 
 
@@ -97,6 +96,10 @@ p{
   text-align:justify;
 }
 }
+
+
+   
+
 
 
    
