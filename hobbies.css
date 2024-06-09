@@ -73,24 +73,25 @@ h2{
    
     
 }
+
 @media only screen and (max-width:480px){
   .lists{
     float: inline-start;
-    left:-20px;
+    left:-10px;
    font-size:22px;
    white-space: wrap;
    
   }
   .image2{
     position: relative;
-    left:60px;
+    left:40px;
   bottom:50px;
   }
 
 .dot{
 position: relative;
-top:1100px;
-left:-100px
+top:1200px;
+left:-130px
 }
 h2{
   font-size:60px;
