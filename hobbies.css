@@ -80,6 +80,10 @@ h2{
    font-size:22px;
    
   }
+    h2
+    {
+        font-size:60px;
+    }
   .image2{
     position: relative;
     left:60px;
