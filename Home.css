@@ -189,27 +189,28 @@ line-height: 50px;
 text-align: center;
 
  }
- @media only screen and (max-width:480px){
-  body{
-    height:5vh;
-  }
+
+
+  @media only screen and (max-width:480px){
+  
 .content {
    position: relative;
-   bottom:10px;
+   top:30px;
    white-space:wrap;
-  right:610px;
+  right:580px;
  
  }
  img{
+  position: relative;
    left:80px;
    width: 250px;
    height: 250px;
-   top:150px;
+   top:-280px;
  }
  h1{
    position:relative;
-   top:600px;
-   font-size:40px;
+   top:350px;
+   font-size:60px;
    font-family:Gabriola;
      
    
@@ -217,47 +218,24 @@ text-align: center;
   
 
  .content h2{
-   font-size: 31px;
+   font-size: 35px;
  
  }
- .boxx{
-  
-   position: relative;
-   right:1000px;
+ 
+.boxx{
+  position: relative;
+  right:850px;
+  display:flex;
+  flex-direction: row;
+  column-gap:0px;
+}
 
-
-   
-   
-   }
-  .box1{
-     position: relative;
-     width: 66px;
-   }
- .box-two{
-   position: relative;
-   width:66px;
-   right:10px;
-
- }
- .box-three{
-   position: relative;
-   width:66px;
-   right:10px;
-
- }
- .box-four{
-   position: relative;
-   width:71px;
-   right:10px;
-   
-
- }
+ 
  .text2{
    position:relative;
-   top:540px;
+   top:180px;
    height:300px;
    white-space:wrap;
- 
    width:550px;
    
  }
@@ -274,5 +252,6 @@ text-align: center;
 
  }
 }
+
 
 
