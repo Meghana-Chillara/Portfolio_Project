@@ -205,7 +205,8 @@ text-align: center;
   }
   h1{
     top:200px;
-    font-size:50px;
+    font-size:40px;
+    font-family:Gabriola;
     
   }
   .content h2{
@@ -236,11 +237,23 @@ text-align: center;
   }
   .text2{
     top:350px;
-    height: 400px;
-    white-space:nowrap;
+    height: 500px;
+    white-space:wrap;
     left:-10px;
     width:500px;
+    
   }
-}
+  p{
+   font-size:16px;
+    font-family:Optima;
+ left:5px;
+ right:5px;
+   
+    
+  
+ 
+  }
+  }
+
 
  
