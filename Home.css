@@ -197,7 +197,7 @@ text-align: center;
     position: relative;
     bottom:10px;
     white-space:wrap;
-   right:580px;
+   right:581px;
   
   }
   img{
@@ -207,21 +207,22 @@ text-align: center;
     top:150px;
   }
   h1{
-    top:300px;
+    top:250px;
     font-size:40px;
-   font-family:Gabriola;
+  font-family:Gabriola;
       
     
   }
    
  
   .content h2{
-    font-size: 33px;
+    font-size: 31px;
+  
   }
   .boxx{
     display: flex;
     position: relative;
-    right:880px;
+    right:950px;
     flex-direction: row;
     column-gap:0px;
     }
@@ -246,18 +247,19 @@ text-align: center;
 
   }
   .text2{
+    position:relative;
     top:450px;
-    height: 500px;
+    height:300px;
     white-space:wrap;
-    left:-10px;
+  
     width:550px;
     
   }
   p{
    font-size:16px;
     font-family:Optima;
- left:5px;
- right:5px;
+ left:0px;
+ 
    
     
   
