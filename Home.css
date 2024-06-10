@@ -189,16 +189,13 @@ line-height: 50px;
 text-align: center;
 
  }
-
-
- 
  @media only screen and (max-width:480px){
   
 .content {
    position: relative;
    top:30px;
    white-space:wrap;
-  right:580px;
+  right:600px;
  
  }
  img{
@@ -210,8 +207,9 @@ text-align: center;
  }
  h1{
    position:relative;
-   top:350px;
-   font-size:35px;
+   top:300px;
+   font-size:50px;
+   font-family: Gabriola;
    
      
    
@@ -225,7 +223,8 @@ text-align: center;
  
 .boxx{
   position: relative;
-  right:900px;
+  top:20px;
+  right:950px;
   display:flex;
   flex-direction: row;
   column-gap:0px;
@@ -234,7 +233,7 @@ text-align: center;
  
  .text2{
    position:relative;
-   top:180px;
+   top:50px;
    height:300px;
    white-space:wrap;
    width:550px;
@@ -242,7 +241,7 @@ text-align: center;
  }
  p{
    position:relative;
-  font-size:25px;
+  font-size:20px;
    font-family:Optima;
    right:20px;
    white-space:wrap;
@@ -253,6 +252,9 @@ text-align: center;
 
  }
 }
+
+
+ 
 
 
 
