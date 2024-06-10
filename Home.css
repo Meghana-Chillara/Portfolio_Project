@@ -209,7 +209,7 @@ text-align: center;
    position:relative;
    top:300px;
    font-size:50px;
-   font-family: Gabriola;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
    
      
    
@@ -220,14 +220,18 @@ text-align: center;
    font-size: 32px;
  
  }
+ .box-one{
+  position: relative;
+  margin-left:5px;
+ }
  
 .boxx{
   position: relative;
   top:20px;
-  right:950px;
+  right:960px;
   display:flex;
   flex-direction: row;
-  column-gap:0px;
+  column-gap:px;
 }
 
  
@@ -252,7 +256,6 @@ text-align: center;
 
  }
 }
-
 
  
 
