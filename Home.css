@@ -226,7 +226,7 @@ text-align: center;
     right:900px;
     display:flex;
     flex-direction:row;
-    rgap:0px;
+    gap:0px;
    
     
     }
