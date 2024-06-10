@@ -190,90 +190,89 @@ text-align: center;
 
  }
  @media only screen and (max-width:480px){
-   body{
-     height:5vh;
-   }
+  body{
+    height:5vh;
+  }
 .content {
-    position: relative;
-    bottom:10px;
-    white-space:wrap;
-   right:581px;
+   position: relative;
+   bottom:10px;
+   white-space:wrap;
+  right:610px;
+ 
+ }
+ img{
+   left:80px;
+   width: 250px;
+   height: 250px;
+   top:150px;
+ }
+ h1{
+   position:relative;
+   top:600px;
+   font-size:40px;
+   font-family:Gabriola;
+     
+   
+ }
   
-  }
-  img{
-    left:80px;
-    width: 250px;
-    height: 250px;
-    top:150px;
-  }
-  h1{
-    position:relative
-    top:300px;
-    font-size:40px;
-    font-family:Georgia;
-      
-    
-  }
+
+ .content h2{
+   font-size: 31px;
+ 
+ }
+ .boxx{
+  
+   position: relative;
+   right:1000px;
+
+
+   
+   
+   }
+  .box1{
+     position: relative;
+     width: 66px;
+   }
+ .box-two{
+   position: relative;
+   width:66px;
+   right:10px;
+
+ }
+ .box-three{
+   position: relative;
+   width:66px;
+   right:10px;
+
+ }
+ .box-four{
+   position: relative;
+   width:71px;
+   right:10px;
+   
+
+ }
+ .text2{
+   position:relative;
+   top:540px;
+   height:300px;
+   white-space:wrap;
+ 
+   width:550px;
+   
+ }
+ p{
+   position:relative;
+  font-size:16px;
+   font-family:Optima;
+   right:20px;
+   white-space:wrap;
+
+  
    
  
-  .content h2{
-    font-size: 31px;
-  
-  }
-  .boxx{
-   
-    position: relative;
-    right:900px;
-    display:flex;
-    flex-direction:row;
-    gap:0px;
-   
-    
-    }
-   .box1{
-      position: relative;
-      width: 66px;
-    }
-  .box-two{
-    position: relative;
-    width:66px;
-    right:10px;
 
-  }
-  .box-three{
-    position: relative;
-    width:66px;
-    right:10px;
+ }
+}
 
-  }
-  .box-four{
-    position: relative;
-    width:71px;
-    right:10px;
-    
 
-  }
-  .text2{
-    position:relative;
-    top:500px;
-    height:300px;
-    white-space:wrap;
-  
-    width:550px;
-    
-  }
-  p{
-    position:relative;
-   font-size:16px;
-    font-family:Optima;
-    left:0px;
-    white-space:wrap;
- 
-   
-    
-  
- 
-  }
-  }
-
- 
