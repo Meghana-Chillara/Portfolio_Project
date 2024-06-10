@@ -191,7 +191,8 @@ text-align: center;
  }
 
 
-  @media only screen and (max-width:480px){
+ 
+ @media only screen and (max-width:480px){
   
 .content {
    position: relative;
@@ -203,28 +204,28 @@ text-align: center;
  img{
   position: relative;
    left:80px;
-   width: 250px;
-   height: 250px;
-   top:-280px;
+   width: 280px;
+   height: 280px;
+   top:-300px;
  }
  h1{
    position:relative;
    top:350px;
-   font-size:60px;
-   font-family:Gabriola;
+   font-size:35px;
+   
      
    
  }
   
 
  .content h2{
-   font-size: 35px;
+   font-size: 32px;
  
  }
  
 .boxx{
   position: relative;
-  right:850px;
+  right:900px;
   display:flex;
   flex-direction: row;
   column-gap:0px;
@@ -241,7 +242,7 @@ text-align: center;
  }
  p{
    position:relative;
-  font-size:16px;
+  font-size:25px;
    font-family:Optima;
    right:20px;
    white-space:wrap;
@@ -252,6 +253,7 @@ text-align: center;
 
  }
 }
+
 
 
 
