@@ -223,7 +223,7 @@ text-align: center;
   .boxx{
    
     position: relative;
-    right:800px;
+    right:900px;
     display:flex;
     flex-direction:row;
     rgap:0px;
@@ -255,7 +255,7 @@ text-align: center;
   }
   .text2{
     position:relative;
-    top:480px;
+    top:500px;
     height:300px;
     white-space:wrap;
   
