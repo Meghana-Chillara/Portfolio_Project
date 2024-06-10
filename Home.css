@@ -190,6 +190,9 @@ text-align: center;
 
  }
  @media only screen and (max-width:480px){
+   body{
+     height:10vh;
+   }
 .content {
     position: relative;
     bottom:10px;
@@ -204,32 +207,21 @@ text-align: center;
     top:150px;
   }
   h1{
-    top:200px;
+    top:300px;
     font-size:40px;
-    font-family:Gabriola;
-      animation: 2s anim-lineUp ease-out infinite;
+   font-family:Gabriola;
+      
     
   }
-    @keyframes slide-in {
-    from {
-      transform: translateX(-100%);
-    }
-    to {
-      transform: translateX(0%);
-    }
-  }
-
-  /* ...and then apply it: */
-  h1 {
-    animation: slide-in 1000ms;
-  }
+   
+ 
   .content h2{
-    font-size: 30px;
+    font-size: 33px;
   }
   .boxx{
     display: flex;
     position: relative;
-    right:830px;
+    right:880px;
     flex-direction: row;
     column-gap:0px;
     }
@@ -254,11 +246,11 @@ text-align: center;
 
   }
   .text2{
-    top:350px;
-    height: 800px;
+    top:450px;
+    height: 500px;
     white-space:wrap;
     left:-10px;
-    width:500px;
+    width:550px;
     
   }
   p{
