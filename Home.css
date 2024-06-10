@@ -68,7 +68,7 @@ body{
   font-size:65px;
   position: absolute;
   transform: translate(-50%, -50%);
-   margin-left: 800px;
+   margin-left: 810px;
     top:90px;
     white-space:nowrap;
     font-family:Georgia;
@@ -191,7 +191,7 @@ text-align: center;
  }
  @media only screen and (max-width:480px){
    body{
-     height:10vh;
+     height:5vh;
    }
 .content {
     position: relative;
@@ -207,6 +207,7 @@ text-align: center;
     top:150px;
   }
   h1{
+    position:relative
     top:250px;
     font-size:40px;
   font-family:Gabriola;
@@ -243,6 +244,7 @@ text-align: center;
   .box-four{
     position: relative;
     width:71px;
+    right:10px;
     
 
   }
@@ -256,6 +258,7 @@ text-align: center;
     
   }
   p{
+    position:relative;
    font-size:16px;
     font-family:Optima;
  left:0px;
