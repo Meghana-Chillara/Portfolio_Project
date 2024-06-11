@@ -208,7 +208,7 @@ text-align: center;
  h1{
    position:relative;
    top:250px;
-   font-size:50px;
+   font-size:60px;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    text-align: center;
   transform: scale(0.94);
@@ -256,13 +256,13 @@ span:nth-child(5) {
  }
  .box-one{
   position: relative;
-  margin-left:30px;
+  margin-left:40px;
  }
  
 .boxx{
   position: relative;
   top:20px;
-  right:940px;
+  right:970px;
   display:flex;
   flex-direction: row;
   column-gap:px;
