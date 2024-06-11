@@ -195,7 +195,7 @@ text-align: center;
      position: relative;
      top:30px;
      white-space:wrap;
-    right:599px;
+    right:598px;
    
    }
    img{
@@ -254,15 +254,15 @@ text-align: center;
      font-size: 32px;
    
    }
- .box-one{
+  .box-one{
     position: relative;
-    margin-left:80px;
+    margin-left:100px;
    }
    
   .boxx{
     position: relative;
     top:20px;
-    right:1050px;
+    right:1030px;
     display:flex;
     flex-direction: row;
     column-gap:0px;
