@@ -195,7 +195,7 @@ text-align: center;
      position: relative;
      top:30px;
      white-space:wrap;
-    right:602px;
+    right:605px;
    
    }
    img{
@@ -203,7 +203,7 @@ text-align: center;
      left:50px;
      width: 280px;
      height: 280px;
-     top:-350px;
+     top:-300px;
    }
    h1{
      position:relative;
@@ -256,13 +256,13 @@ text-align: center;
    }
  .box-one{
     position: relative;
-    margin-left:50px;
+    margin-left:100px;
    }
    
   .boxx{
     position: relative;
     top:20px;
-    right:1080px;
+    right:1060px;
     display:flex;
     flex-direction: row;
     column-gap:0px;
@@ -277,7 +277,7 @@ text-align: center;
    .text2{
      position:relative;
      top:25px;
-     height:325px;
+     height:330px;
      white-space:wrap;
      width:550px;
      
