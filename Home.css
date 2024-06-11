@@ -189,8 +189,7 @@ line-height: 50px;
 text-align: center;
 
  }
-
-   @media only screen and (max-width:480px){
+ @media only screen and (max-width:480px){
  
 .content {
    position: relative;
@@ -209,7 +208,7 @@ text-align: center;
  h1{
    position:relative;
    top:250px;
-   font-size:40px;
+   font-size:50px;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    text-align: center;
   transform: scale(0.94);
@@ -257,13 +256,13 @@ span:nth-child(5) {
  }
  .box-one{
   position: relative;
-  margin-left:25px;
+  margin-left:30px;
  }
  
 .boxx{
   position: relative;
   top:20px;
-  right:950px;
+  right:940px;
   display:flex;
   flex-direction: row;
   column-gap:px;
@@ -276,7 +275,7 @@ span:nth-child(5) {
  .text2{
    position:relative;
    top:25px;
-   height:320px;
+   height:325px;
    white-space:wrap;
    width:550px;
    
@@ -294,9 +293,6 @@ span:nth-child(5) {
 
  }
 }
-
-
-  
 
    
 
