@@ -262,7 +262,7 @@ text-align: center;
   .boxx{
     position: relative;
     top:20px;
-    right:1250px;
+    right:1255px;
     display:flex;
     flex-direction: row;
     column-gap:0px;
@@ -287,13 +287,16 @@ text-align: center;
     font-size:20px;
      font-family:Optima;
      right:20px;
-     white-space:wrap;
+   }
+     .text2  p{
+     word-break:break-all;
+     }
   
     
      
    
   
-   }
+   
   }
   
 
