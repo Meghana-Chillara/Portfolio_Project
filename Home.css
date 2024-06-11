@@ -262,7 +262,7 @@ text-align: center;
   .boxx{
     position: relative;
     top:20px;
-    right:1100px;
+    right:1150px;
     display:flex;
     flex-direction: row;
     column-gap:0px;
