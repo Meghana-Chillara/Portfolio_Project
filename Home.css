@@ -256,13 +256,13 @@ text-align: center;
    }
  .box-one{
     position: relative;
-    margin-left:100px;
+    margin-left:125px;
    }
    
   .boxx{
     position: relative;
     top:20px;
-    right:1080px;
+    right:1090px;
     display:flex;
     flex-direction: row;
     column-gap:0px;
@@ -276,8 +276,8 @@ text-align: center;
   
    .text2{
      position:relative;
-     top:25px;
-     height:330px;
+     top:28px;
+     height:300px;
      white-space:wrap;
      width:550px;
      
