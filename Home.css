@@ -256,13 +256,13 @@ text-align: center;
    }
    .box-one{
     position: relative;
-    margin-left:80px;
+    margin-left:50px;
    }
    
   .boxx{
     position: relative;
     top:20px;
-    right:1000px;
+    right:1050px;
     display:flex;
     flex-direction: row;
     column-gap:px;
