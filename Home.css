@@ -189,110 +189,111 @@ line-height: 50px;
 text-align: center;
 
  }
- @media only screen and (max-width:480px){
+@media only screen and (max-width:480px){
  
-.content {
-   position: relative;
-   top:30px;
-   white-space:wrap;
-  right:600px;
- 
- }
- img{
-  position: relative;
-   left:80px;
-   width: 280px;
-   height: 280px;
-   top:-300px;
- }
- h1{
-   position:relative;
-   top:250px;
-   font-size:50px;
-   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   text-align: center;
-  transform: scale(0.94);
-  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-  left:-70px;
- }
- @keyframes scale {
-  100% {
-    transform: scale(1);
-  }
-}
-span {
-  display:inline-block;
-  opacity: 0;
-  filter: blur(4px);
-}
-
-span:nth-child(1) {
-  animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
-}
-
-span:nth-child(3) {
-  animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
-}
-
-span:nth-child(5) {
-  animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
-}
-
-
-
-
-
-@keyframes fade-in {
-  100% {
-    opacity: 1;
-    filter: blur(0);
-  }
-}
-  
-
- .content h2{
-   font-size: 32px;
- 
- }
- .box-one{
-  position: relative;
-  margin-left:40px;
- }
- 
-.boxx{
-  position: relative;
-  top:20px;
-  right:1000px;
-  display:flex;
-  flex-direction: row;
-  column-gap:px;
-}
-
- 
-
-
-
- .text2{
-   position:relative;
-   top:25px;
-   height:325px;
-   white-space:wrap;
-   width:550px;
+  .content {
+     position: relative;
+     top:30px;
+     white-space:wrap;
+    right:600px;
    
- }
- p{
-   position:relative;
-  font-size:20px;
-   font-family:Optima;
-   right:20px;
-   white-space:wrap;
-
+   }
+   img{
+    position: relative;
+     left:80px;
+     width: 280px;
+     height: 280px;
+     top:-300px;
+   }
+   h1{
+     position:relative;
+     top:270px;
+     font-size:45px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     text-align: center;
+    transform: scale(0.94);
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+    left:-70px;
+   }
+   @keyframes scale {
+    100% {
+      transform: scale(1);
+    }
+  }
+  span {
+    display:inline-block;
+    opacity: 0;
+    filter: blur(4px);
+  }
+  
+  span:nth-child(1) {
+    animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(3) {
+    animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(5) {
+    animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  
+  
+  
+  
+  @keyframes fade-in {
+    100% {
+      opacity: 1;
+      filter: blur(0);
+    }
+  }
+    
+  
+   .content h2{
+     font-size: 32px;
+   
+   }
+   .box-one{
+    position: relative;
+    margin-left:80px;
+   }
+   
+  .boxx{
+    position: relative;
+    top:20px;
+    right:1000px;
+    display:flex;
+    flex-direction: row;
+    column-gap:px;
+  }
   
    
- 
-
- }
-}
+  
+  
+  
+   .text2{
+     position:relative;
+     top:25px;
+     height:325px;
+     white-space:wrap;
+     width:550px;
+     
+   }
+   p{
+     position:relative;
+    font-size:20px;
+     font-family:Optima;
+     right:20px;
+     white-space:wrap;
+  
+    
+     
+   
+  
+   }
+  }
+  
 
    
 
