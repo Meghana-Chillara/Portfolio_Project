@@ -195,12 +195,12 @@ text-align: center;
      position: relative;
      top:30px;
      white-space:wrap;
-    right:595px;
+    right:590px;
    
    }
    img{
     position: relative;
-     left:60px;
+     left:50px;
      width: 280px;
      height: 280px;
      top:-300px;
@@ -208,7 +208,7 @@ text-align: center;
    h1{
      position:relative;
      top:270px;
-    font-size:45px;
+    font-size:40px;
      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      text-align: center;
     transform: scale(0.94);
@@ -256,13 +256,13 @@ text-align: center;
    }
  .box-one{
     position: relative;
-    margin-left:100px;
+    margin-left:50px;
    }
    
   .boxx{
     position: relative;
     top:20px;
-    right:1090px;
+    right:2000px;
     display:flex;
     flex-direction: row;
     column-gap:0px;
