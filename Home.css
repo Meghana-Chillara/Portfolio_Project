@@ -257,7 +257,7 @@ text-align: center;
   .boxx{
     position: relative;
     top:30px;
-    right:900px;
+    right:950px;
    }
    .boxx .box-one{
 position: relative;
@@ -267,19 +267,19 @@ margin-right:300px;
    }
    .boxx .box-two{
     position: relative;
-    top:10px;
-    margin-rightt:700px;
+    top:5px;
+    margin-left:500px;
 
    }
    .boxx .box-three{
     position:relative;
     top:50px;
-    margin-right:1100px;
+    margin-right:600px;
    }
    .boxx .box-four{
     position:relative;
     top:10px;
-   margin-right:900px;
+   margin-left:100px;
    }
 
    
