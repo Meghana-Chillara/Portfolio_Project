@@ -240,8 +240,7 @@ text-align: center;
   
   span:nth-child(5) {
     animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
-     position:relative;
-    left:2px;
+     
   }
   
   
@@ -263,7 +262,7 @@ text-align: center;
   .boxx{
     position: relative;
     top:30px;
-    right:950px;
+    right:935px;
    }
   
  
