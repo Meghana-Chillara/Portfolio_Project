@@ -14,7 +14,7 @@ body{
    
 .box-one{
    position: relative;
-     left:950px ;
+     left:960px ;
      top:20px;
      
    
@@ -22,7 +22,7 @@ body{
 .box-two{
 
       position:relative;
-       left:980px ;
+       left:990px ;
        top:20px;
       
     
@@ -31,7 +31,7 @@ body{
 
  .box-three{
    position:relative;
-      left:1010px ;
+      left:1020px ;
       top:20px;
       
 
@@ -39,7 +39,7 @@ body{
  }
  .box-four{
       position: relative;
-      left:1040px;
+      left:1050px;
       top:20px;
       
     
@@ -187,11 +187,10 @@ top:70px;
 font-family:Optima;
 line-height: 50px;
 text-align: center;
+  white-space:pre;
    
  }
-.text2 p{
-  hypens:manual;
- }
+
 @media only screen and (max-width:480px){
  
   .content {
