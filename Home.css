@@ -262,13 +262,13 @@ text-align: center;
    .boxx .box-one{
 position: relative;
 top:10px;
-margin-right:230px;
+margin-left:100px;
 
    }
    .boxx .box-two{
     position: relative;
-    top:5px;
-    margin-right:200px;
+    top:10px;
+    margin-left:700px;
 
    }
    .boxx .box-three{
