@@ -275,15 +275,16 @@ white-space:pre;
      position:relative;
      top:28px;
      height:340px;
-     white-space:wrap;
-     width:405px;
+    width:405px;
      
    }
    p{
      position:relative;
     font-size:20px;
      font-family:Optima;
+      white-space:wrap;
       word-wrap:break-word;
+     overflow:hidden;
      
    }
     
