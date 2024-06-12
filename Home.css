@@ -262,24 +262,24 @@ text-align: center;
    .boxx .box-one{
 position: relative;
 top:10px;
-margin-right:60px;
+margin-right:50px;
 
    }
    .boxx .box-two{
     position: relative;
     top:10px;
-    margin-left:50px;
+    margin-right:50px;
 
    }
    .boxx .box-three{
     position:relative;
     top:50px;
-    margin-right:320px;
+    margin-right:350px;
    }
    .boxx .box-four{
     position:relative;
     top:10px;
-   margin-right:230px;
+   margin-left:100px;
    }
 
    
@@ -297,7 +297,7 @@ margin-right:60px;
    }
    p{
      position:relative;
-    font-size:20px;
+    font-size:18px;
      font-family:Optima;
      left:0px;
    }
