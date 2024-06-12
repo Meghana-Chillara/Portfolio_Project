@@ -267,8 +267,8 @@ margin-right:250px;
    }
    .boxx .box-two{
     position: relative;
-    top:5px;
-    margin-right:500px;
+    top:10px;
+    margin-left:500px;
 
    }
    .boxx .box-three{
@@ -278,8 +278,8 @@ margin-right:250px;
    }
    .boxx .box-four{
     position:relative;
-    top:10px;
-   margin-right:500px;
+    top:50px;
+   margin-left:200px;
    }
 
    
