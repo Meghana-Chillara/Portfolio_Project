@@ -200,7 +200,7 @@ text-align: center;
    }
    img{
     position: relative;
-     left:50px;
+     left:60px;
      width: 280px;
      height: 280px;
      top:-250px;
@@ -262,24 +262,24 @@ text-align: center;
    .boxx .box-one{
 position: relative;
 top:10px;
-margin-right:100px;
+margin-right:150px;
 
    }
    .boxx .box-two{
     position: relative;
     top:10px;
-    margin-left:70px;
+    margin-left:100px;
 
    }
    .boxx .box-three{
     position:relative;
     top:50px;
-    margin-right:400px;
+    margin-right:700px;
    }
    .boxx .box-four{
     position:relative;
     top:10px;
-   margin-right:300px;
+   margin-right:500px;
    }
 
    
