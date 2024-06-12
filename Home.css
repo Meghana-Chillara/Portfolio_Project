@@ -213,7 +213,7 @@ text-align: center;
      text-align: center;
     transform: scale(0.94);
     animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-    left:-70px;
+    left:50px;
    }
    @keyframes scale {
     100% {
@@ -263,7 +263,7 @@ text-align: center;
   .boxx{
     position: relative;
     top:30px;
-    right:950px;
+    right:1000px;
    }
   
   .boxx .box-one{
