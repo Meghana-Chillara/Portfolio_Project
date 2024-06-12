@@ -257,18 +257,18 @@ text-align: center;
   .boxx{
     position: relative;
     top:30px;
-    right:950px;
+    right:920px;
    }
    .boxx .box-one{
 position: relative;
 top:10px;
-margin-right:250px;
+margin-right:230px;
 
    }
    .boxx .box-two{
     position: relative;
     top:5px;
-    margin-right:600px;
+    margin-right:200px;
 
    }
    .boxx .box-three{
