@@ -265,6 +265,11 @@ text-align: center;
     top:30px;
     right:1000px;
    }
+  
+  .boxx .box-one{
+    position:relative;
+    left:10px;
+  }
 
    
    
@@ -281,7 +286,7 @@ text-align: center;
    }
    p{
      position:relative;
-    font-size:19px;
+    font-size:18px;
      font-family:Optima;
      left:0px;
    }
