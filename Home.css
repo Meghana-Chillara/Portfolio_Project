@@ -262,7 +262,7 @@ text-align: center;
   .boxx{
     position: relative;
     top:30px;
-    right:900px;
+    right:920px;
    }
   
  
@@ -282,7 +282,7 @@ text-align: center;
      position:relative;
     font-size:18px;
      font-family:Optima;
-     left:0px;
+     right:2px;
    }
      .text2  p{
      word-wrap:break-word;
