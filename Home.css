@@ -273,19 +273,19 @@ white-space:pre;
   
    .text2{
      position:relative;
-    top:80px;
+    top:90px;
      height:340px;
     width:405px;
      
    }
    p{
-     top:50px;
+     top:20px;
      position:relative;
     font-size:18px;
      font-family:Optima;
       white-space:wrap;
       word-wrap:break-word;
-     line-height:35px;
+     line-height:45px;
       
    
      
