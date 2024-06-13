@@ -58,7 +58,7 @@ animation-delay: calc(.1s * var(--i));
 {
   .card{
     left:15px;    
-    top:50px;
+    top:80px;
  position: relative;
  width:350px;
 
@@ -73,20 +73,12 @@ animation-delay: calc(.1s * var(--i));
     font-size: 100px;
     top:20px;
     left:20px;
-     
- -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
-
+   
 
   }
-   .text span {
-font-family: "Lucida Console", "Courier New", monospace;
-position: relative;
-display: inline-block;
-text-transform: uppercase;
-animation: waviy 1s infinite;
-animation-delay: calc(.1s * var(--i));
+   .text span{
+      font-family:font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-}
 }
 
 
