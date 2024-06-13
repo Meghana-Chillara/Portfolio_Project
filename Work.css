@@ -71,13 +71,15 @@ animation-delay: calc(.1s * var(--i));
       font-family:Impact;
     position: relative;
      right:30px;
+       font-size: 80px;
+         top:10px;
+
    
 
   }
    .text span{
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-          font-size: 80px;
-         top:15px;
+       
 
 }
 }
