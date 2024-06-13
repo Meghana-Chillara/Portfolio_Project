@@ -57,8 +57,8 @@ animation-delay: calc(.1s * var(--i));
 @media only screen and (max-width:480px)
 {
   .card{
-    left:15px;    
-    top:50px;
+    left:10px;    
+    top:40px;
  position: relative;
  width:350px;
 
@@ -71,12 +71,18 @@ animation-delay: calc(.1s * var(--i));
     font-size: 100px;
     top:20px;
     
-    left:10px;
+    left:5px;
 
   }
-   .text span{
-      font-family: "Lucida Console", "Courier New", monospace;
-   }
+   .text span {
+font-family: "Lucida Console", "Courier New", monospace;
+position: relative;
+display: inline-block;
+text-transform: uppercase;
+animation: waviy 1s infinite;
+animation-delay: calc(.1s * var(--i));
+
+}
 }
 
 
