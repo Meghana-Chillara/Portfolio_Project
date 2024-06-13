@@ -70,14 +70,14 @@ animation-delay: calc(.1s * var(--i));
       color:white;
       font-family:Impact;
     position: relative;
-    font-size: 80px;
-    top:15px;
-    right:30px;
+     right:30px;
    
 
   }
    .text span{
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 80px;
+         top:15px;
 
 }
 }
