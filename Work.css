@@ -57,9 +57,9 @@ animation-delay: calc(.1s * var(--i));
 @media only screen and (max-width:480px)
 {
   .card{
+     position:relative;
     left:20px;    
-    top:100px;
- position: relative;
+    top:150px;
  width:350px;
 
 
