@@ -57,8 +57,8 @@ animation-delay: calc(.1s * var(--i));
 @media only screen and (max-width:480px)
 {
   .card{
-    left:10px;    
-    top:40px;
+    left:15px;    
+    top:50px;
  position: relative;
  width:350px;
 
@@ -67,11 +67,15 @@ animation-delay: calc(.1s * var(--i));
   }
   
   .text {
+      color:white;
+      font-family:Impact;
     position: relative;
     font-size: 100px;
     top:20px;
-    
-    left:5px;
+    left:20px;
+     
+ -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
+
 
   }
    .text span {
