@@ -280,11 +280,11 @@ white-space:pre;
    }
    p{
      position:relative;
-    font-size:18px;
+    font-size:16px;
      font-family:Optima;
       white-space:wrap;
       word-wrap:break-word;
-     line-height:6px;
+     line-height:10px;
       
    
      
