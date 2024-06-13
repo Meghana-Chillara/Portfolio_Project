@@ -57,7 +57,7 @@ animation-delay: calc(.1s * var(--i));
 @media only screen and (max-width:480px)
 {
   .card{
-    left:30px;    
+    left:15px;    
     top:50px;
  position: relative;
  width:350px;
@@ -70,10 +70,13 @@ animation-delay: calc(.1s * var(--i));
     position: relative;
     font-size: 100px;
     top:20px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    
     left:10px;
 
   }
+   .text span{
+      font-family: "Lucida Console", "Courier New", monospace;
+   }
 }
 
 
