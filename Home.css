@@ -279,8 +279,9 @@ white-space:pre;
      
    }
    p{
-     top:20px;
+     
      position:relative;
+     bottom:25px;
     font-size:18px;
      font-family:Optima;
       white-space:wrap;
