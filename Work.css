@@ -59,7 +59,7 @@ animation-delay: calc(.1s * var(--i));
   .card{
      position:relative;
     left:20px;    
-    top:-5px;
+    top:70px;
  width:350px;
 
 
@@ -71,7 +71,7 @@ animation-delay: calc(.1s * var(--i));
       font-family:Impact;
     position: relative;
      right:30px;
-       font-size: 80px;
+       font-size: 90px;
          top:30px;
 
    
