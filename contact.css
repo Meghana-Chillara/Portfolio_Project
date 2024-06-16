@@ -143,7 +143,24 @@ position: relative;
   button{
     left:250px;
   }
+    .error-message1{
+    position: relative;
+    left:10px;
+    bottom:5px;
    }
+   .error-message2{
+    position: relative;
+    left:10px;
+    bottom:5px;
+   }
+   .error-message3{
+    position: relative;
+    left:10px;
+    bottom:5px;
+   }
+  }
+
+  
 
   
 
