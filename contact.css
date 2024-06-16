@@ -114,31 +114,39 @@ position: relative;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
  
-  
-  
-  
   @media only screen and (max-width:480px){
-
-h1{
-  left:150px;
-}
-input{
-  left:100px;
-}
-#message{
-  left:100px;
-}
-.content{
-  width:600px ;
-}
-.svg1{
-  left:250px;
-}
-.svg2{
-  left:300px ;
-}
- }
+  h1{
+    left:100px;
+    font-size:50px;
   
+  }
+  input{
+    left:10px;
+    width:350px;
+  }
+  #message{
+    left:10px;
+    width:350px;
+  }
+  .content{
+    width:450px ;
+
+  }
+  .svg1{
+    left:150px;
+  }
+  .svg2{
+    left:200px ;
+  }
+  button{
+    left:250px;
+  }
+   }
+
+  
+  
+  
+
   
   
   
